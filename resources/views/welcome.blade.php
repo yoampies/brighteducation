@@ -3,6 +3,6 @@
     <head>
     </head>
     <body>
-        <p>This is a test for github</p>
+        <p>This is another test for github</p>
     </body>
 </html>
